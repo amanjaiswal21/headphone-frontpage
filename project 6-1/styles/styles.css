@@ -1,0 +1,250 @@
+* {
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+    background: #0f0f10;
+    font-family: "Poppins", sans-serif;
+    color: #ffffff;
+  }
+
+  nav{
+    position: relative;
+    top: -150px;
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: space-between;
+    /* border: 2px solid white; */
+  }
+ 
+  a {
+    font-weight: 700;
+    font-size: 14px;
+    color: white;
+    text-decoration: none;
+  }
+
+  .shop {
+    background: #1e1e21;
+    border-radius: 8px;
+    font-weight: 300;
+    font-size: 14px;
+    padding: 10px 40px;
+    box-shadow: -6px -3px 5px white;
+  }
+.l{
+  list-style: none;
+  display: flex;
+ align-items: center;
+ justify-content: center;
+  gap: 50px;
+  /* border: 2px solid white; */
+  margin-bottom: 180px;
+  margin-right: 150px;
+}
+.main{
+  height: 600px;
+  /* border: 2px solid white; */
+}
+.logo{
+  margin-bottom: 160px;
+  margin-left: 150px;
+}
+.mainear{
+  
+  margin-left: 700px;
+  position: relative;
+    top: -480px;
+    margin-right: 200px;
+  /* border: 2px solid white; */
+}
+/* .container{
+  position: relative;
+ margin-right: 50px;
+  border: 2px solid white;
+} */
+
+.bag{
+  background: #1e1e21;
+  border-radius: 8px;
+  padding: 10px 30px;
+  box-shadow: -6px -3px 5px  grey;
+  margin-left: 700px;
+  position: relative;
+    top: -430px;
+    margin-right: 200px;
+    
+}
+.addtobag{
+  background: #1e1e21;
+  margin-left: 10px;
+  
+}
+.n399k{
+  background: #1e1e21;
+  margin-left: 10px;
+  font-weight: 400;
+  font-size: 19px;
+}
+.companylogo{
+  list-style: none;
+  display: flex;
+ align-items: center;
+ justify-content: center;
+ gap: 70px;
+ position: relative;
+ top: -350px;
+ /* border: 2px solid white; */
+}
+
+.specsphoto{
+ margin-left: 530px;
+ position: relative;
+ top: -250px;
+}
+.specification-list{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  top: -180px;
+  gap: 90px;
+}
+.bluetooth{
+  margin-left: 40px;
+}
+.Microphone{
+  margin-left: 40px;
+}
+.specification-list-items{
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+.casephoto{
+  margin-left: 530px;
+  position: relative;
+  top: -50px;
+}
+
+.casesection{
+  display: flex;
+  align-items: center;
+margin-left: 300px;
+}
+
+.casepara{
+  margin-right:320px ;
+}
+.moreinfo{
+  background: #1e1e21;
+  margin-left: 10px;
+  font-weight: 400;
+  font-size: 19px;
+}
+.casebutton{
+
+  background: #1e1e21;
+  border-radius: 8px;
+  padding: 10px 30px;
+margin-top: 40px;
+box-shadow: -6px -3px 5px grey;
+}
+.parabutton{
+  margin-left: 130px;
+}
+.case2button{
+ 
+  border-radius: 8px;
+  padding: 10px 30px;
+  /* box-shadow: -6px -3px 5px grey; */
+}
+.buynowcase2{
+  
+  margin-left: 10px;
+  font-size: 20px;
+  
+}
+.ibp{
+  display: flex;
+  background-color: transparent;
+  flex-direction: column;
+  gap: 20px;
+}
+.case2{
+  margin: 150px 200px 0px;
+  padding: 50px 0px;
+  background: #1e1e21;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 100px;
+}
+.buyimage{
+  background: #1e1e21;
+  
+}
+.p40{
+  background: #1e1e21;
+}
+.choose{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 150px;
+  gap: 50px;
+}
+.choose8{
+  margin-right: 210px;
+}
+.choose1,.choose4,.choose7{
+display: flex;
+gap: 80px;
+margin-right: 250px;
+
+}
+
+.choose2,.choose3,.choose5,.choose6,.choose8{
+  height: 150px;
+  width: 130px;
+  padding: 30px;
+  background: #1e1e21;
+}
+.b{
+  margin-left: 30px;
+}
+li{
+  list-style: none;
+}
+footer{
+  margin-top: 90px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-bottom: 500px;
+}
+.heading{
+  font-size: 20px;
+}
+.input{
+  padding: 10px 70px 10px 2px;
+  /* padding-right: 70px; */
+  background: #1e1e21;
+}
+.subscribe-button{
+  background-color: transparent;
+  position: relative;
+  top: -55px;
+  margin-left: 150px;
+}
+.arrow{
+  position: relative;
+  top: -30px;
+  margin-left: 120px;
+}
+.social-media-icons{
+  display: flex;
+  gap: 25px;
+}
